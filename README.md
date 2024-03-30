@@ -8,4 +8,4 @@
 
 **Ponderada.kicad_sch:** Desenho esquemático do projeto
 
-**Ponderada.kicad_pro:** Arquivo de inicialização do Kit (Ou algo do tipo)
+**Ponderada.kicad_pro:** Arquivo de inicialização do KiCad (Ou algo do tipo)
